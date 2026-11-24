@@ -1,0 +1,9 @@
+wave,left,right,posting,dir
+W1,A,B,J1,both
+W1,B,C,J2,both
+W1,C,D,J3,both
+W2,A,B,J1,both
+W2,B,C,J2,both
+W2,C,D,J3,both
+W2,C,E,J4,both
+W2,A,E,J5,both

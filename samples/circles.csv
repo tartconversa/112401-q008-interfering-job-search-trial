@@ -1,0 +1,10 @@
+wave,circle,roster,capacity,fixed_recipients,holdout
+W1,A,A1|A2|A3|A4,3,,no
+W1,B,B1|B2|B3|B4,3,,no
+W1,C,C1|C2|C3|C4,3,,no
+W1,D,D1|D2|D3|D4,3,,no
+W2,A,A1|A2|A5|A6,3,A5,no
+W2,B,B1|B2|B5|B6,2,B1,no
+W2,C,C2|C3,1,,no
+W2,D,D1|D2|D3|D4,0,,yes
+W2,E,E1|E2|E3|E4,3,E2,no

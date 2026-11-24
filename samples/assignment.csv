@@ -1,0 +1,5 @@
+wave,circle,level,people_assigned
+W1,A,low,A1
+W1,B,high,B1|B2|B4
+W1,C,high,C1|C2|C3
+W1,D,low,D4

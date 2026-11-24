@@ -1,0 +1,7 @@
+wave,reporting_circle,person,employer,placement_id,posting,result,at
+W1,A,A2,F1,P1,J1,started,2026-09-17
+W1,B,A2,F1,P1,J1,started,2026-09-17
+W1,B,B1,F2,P2,J2,unconfirmed,2026-09-17
+W1,B,B2,F1,P3,J1,started,2026-09-20
+W1,C,C1,F3,P4,J3,started,2026-09-21
+W1,D,D2,F3,P5,J3,not-started,2026-09-22

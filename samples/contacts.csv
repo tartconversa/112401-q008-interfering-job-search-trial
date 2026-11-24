@@ -1,0 +1,11 @@
+wave,person,serving_circle,posting,kind,at
+W1,A1,A,J1,message,2026-09-11
+W1,A2,B,J1,forwarded,2026-09-12
+W1,B1,B,J2,message,2026-09-11
+W1,B2,B,J1,message,2026-09-11
+W1,B4,B,J1,delivery-failed,2026-09-11
+W1,C1,C,J3,message,2026-09-11
+W1,C2,C,J2,message,2026-09-11
+W1,C3,C,J2,message,2026-09-11
+W1,D4,D,J3,message,2026-09-11
+W1,D2,C,J3,forwarded,2026-09-12
