@@ -5,7 +5,7 @@ import unittest
 
 INPUTS = Path(__file__).resolve().parent.parent / "samples"
 
-HEADERS = {'circles': ('wave', 'circle', 'roster', 'capacity', 'fixed_recipients', 'holdout'), 'links': ('wave', 'left', 'right', 'posting', 'dir'), 'designs': ('wave', 'level', 'fraction', 'min_circles', 'max_circles', 'seed', 'cutoff'), 'assignment': ('wave', 'circle', 'level', 'people_assigned'), 'contacts': ('wave', 'person', 'serving_circle', 'posting', 'kind', 'at'), 'placements': ('wave', 'reporting_circle', 'person', 'employer', 'placement_id', 'posting', 'result', 'at'), 'amendments': ('change', 'wave', 'kind', 'left', 'right', 'found_after', 'recorded')}
+HEADERS = {'circles': ('wave', 'circle', 'roster', 'capacity', 'fixed_recipients', 'holdout'), 'links': ('wave', 'left', 'right', 'posting', 'dir'), 'designs': ('wave', 'level', 'fraction', 'min_circles', 'max_circles', 'seed', 'cutoff', 'outcome_from', 'outcome_to'), 'assignment': ('wave', 'circle', 'level', 'people_assigned'), 'contacts': ('wave', 'person', 'serving_circle', 'posting', 'kind', 'at'), 'placements': ('wave', 'reporting_circle', 'person', 'employer', 'placement_id', 'posting', 'result', 'at'), 'amendments': ('change', 'wave', 'kind', 'left', 'right', 'found_after', 'recorded')}
 REFERENCES = [('assignment', 'circle', 'circles', 'circle'), ('placements', 'posting', 'links', 'posting'), ('assignment', 'level', 'designs', 'level')]
 EXAMPLES = [['circles', 'wave', 'W2', 5], ['placements', 'placement_id', 'P1', 2], ['contacts', 'kind', 'forwarded', 2]]
 
